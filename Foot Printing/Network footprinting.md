@@ -2,7 +2,8 @@
 Network footprinting is the process of gathering information about a network to understand its structure, components, and security posture. This involves collecting details about network topology, IP addresses, routing information, and network devices such as routers, firewalls, and servers.
 ## Tools Used 
 1. **nslookup**: Used to obtain various types of DNS-related information.
-2. **traceroute**: Used to track the hops,path that packets take from your computer to a destination host. 
+2. **traceroute**: Used to track the hops,path that packets take from your computer to a destination host.
+3. **Shodan**: Used to gather information about servers, IoT devices, and other networked systems. It can be used for competitive intelligence to understand the technological landscape and security posture of competitors.
 ## 1. **nslookup** 
 ### Steps to Use nslookup
 1. **Open Command Prompt or Terminal**:
@@ -41,3 +42,27 @@ Network footprinting is the process of gathering information about a network to 
     </div>
 3. **Review the Results**:
    - traceroute will display the hop count,response times,host name or ip address
+
+## 3. **Shodan.io**
+### Steps to Use Shodan.io
+
+1. **Visit the Website**:
+   - Go to [Shodan](https://www.shodan.io/).
+
+2. **Create an Account or Log In**:
+   - If you don't have an account, sign up for a free account. If you already have an account, log in using your credentials.
+3. **Enter Search Criteria**:
+   - In the search bar, enter the IP address, domain name, or search term related to the network or devices you want to investigate.
+   - *Example search:* `Ubuntu` 
+   
+   <p align="center">
+     <img src="https://s4.aconvert.com/convert/p3r68-cdx67/a4r8u-whzuo.jpg" alt="Shodan Search" width="400">
+   </p>
+
+4. **Review the Results**:
+   - Shodan will display a list of devices, their IP addresses, open ports, services running, and other relevant details.
+   
+   <p align="center">
+     <img src="https://s4.aconvert.com/convert/p3r68-cdx67/ab1f0-tp0b1.jpg" alt="Shodan Results" width="400">
+   </p>
+

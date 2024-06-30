@@ -47,14 +47,14 @@ Website Footprinting is the process of gathering information about a website to 
    - *Example website:* [https://poki.com/](https://poki.com/)
 
 <p align="center">
-  <img src="https://s4.aconvert.com/convert/p3r68-cdx67/anti2-0frh8.png" alt="Site Checker" width="600">
+  <img src="https://s4.aconvert.com/convert/p3r68-cdx67/ag3yr-7yho8.png" alt="Site Checker" width="600">
 </p>
 
 3. **Review the Results**:
    - Evaluate the comprehensive report provided by Sitechecker Pro, which includes SEO insights, performance metrics, and issues like broken links.
 
 <p align="center">
-  <img src="https://s4.aconvert.com/convert/p3r68-cdx67/aqu63-mn3x4.png" alt="Site Checker Results" width="600">
+  <img src="https://s4.aconvert.com/convert/p3r68-cdx67/a6o9u-rjmuf.png" alt="Site Checker Results" width="600">
 </p>
 
 ## 3. **Wayback Machine**
